@@ -2,6 +2,13 @@
     "available_space": true,
     "content": [
         {
+            "id": "PWMckKB40aI",
+            "name": "Songs for the Damned-PWMckKB40aI.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/i3/videos/Songs for the Damned-PWMckKB40aI.mp4",
+            "size": 5.451454,
+            "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Songs for the Damned-PWMckKB40aI.mp4?raw=true"
+        },
+        {
             "id": "HSf2x1RQ3J0",
             "name": "Fidgety Feet-HSf2x1RQ3J0.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/i3/videos/Fidgety Feet-HSf2x1RQ3J0.mp4",
@@ -42,6 +49,13 @@
             "path": "/home/alanmatzumiya/Videos/containers/i3/videos/Ingeborg Hallstein sings Fr\u00fchlingsstimmen Walzer (Voices of Spring Waltz) by Johann Strauss II-qmPrIW1lGLk.mp4",
             "size": 20.651104,
             "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Ingeborg Hallstein sings Fr\u00fchlingsstimmen Walzer (Voices of Spring Waltz) by Johann Strauss II-qmPrIW1lGLk.mp4?raw=true"
+        },
+        {
+            "id": "RbQ9eH5RNGk",
+            "name": "Alice Di Piazza, Sofia Gubaidulina piano concerto 'Introitus'-RbQ9eH5RNGk.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/i3/videos/Alice Di Piazza, Sofia Gubaidulina piano concerto 'Introitus'-RbQ9eH5RNGk.mp4",
+            "size": 85.766635,
+            "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Alice Di Piazza, Sofia Gubaidulina piano concerto 'Introitus'-RbQ9eH5RNGk.mp4?raw=true"
         },
         {
             "id": "8hhYoUYL3Ac",
@@ -93,6 +107,13 @@
             "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Samba Em Preludio-8vOkY94xjnY.mp4?raw=true"
         },
         {
+            "id": "xCJGl4pRv8s",
+            "name": "1929, Do What You Do, When a Woman Loves a Man, Why Was I Born, Through, Roger Wolfe Kahn Orch. HD-xCJGl4pRv8s.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/i3/videos/1929, Do What You Do, When a Woman Loves a Man, Why Was I Born, Through, Roger Wolfe Kahn Orch. HD-xCJGl4pRv8s.mp4",
+            "size": 86.47580699999999,
+            "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/1929, Do What You Do, When a Woman Loves a Man, Why Was I Born, Through, Roger Wolfe Kahn Orch. HD-xCJGl4pRv8s.mp4?raw=true"
+        },
+        {
             "id": "bHGuq5kHxWs",
             "name": "Kreisler - Liebesfreud - Liebesfreud-bHGuq5kHxWs.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/i3/videos/Kreisler - Liebesfreud - Liebesfreud-bHGuq5kHxWs.mp4",
@@ -121,5 +142,5 @@
             "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Lsd-2F27X7yXeTY.mp4?raw=true"
         }
     ],
-    "total_size": 279.625111
+    "total_size": 457.319007
 }
