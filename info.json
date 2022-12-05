@@ -23,6 +23,13 @@
             "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Keyboard Sonata No. 7 in D Major, Hob. XVII, D 1 - I. Theme & Variations 1 - 3-Lt8_DpUyLmk.mp4?raw=true"
         },
         {
+            "id": "ItBv2pJpBNc",
+            "name": "Keyboard Sonata No. 5 in G Major, Hob. XVI, 11 - I. Presto-ItBv2pJpBNc.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/i3/videos/Keyboard Sonata No. 5 in G Major, Hob. XVI, 11 - I. Presto-ItBv2pJpBNc.mp4",
+            "size": 1.71793,
+            "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Keyboard Sonata No. 5 in G Major, Hob. XVI, 11 - I. Presto-ItBv2pJpBNc.mp4?raw=true"
+        },
+        {
             "id": "dzUD4zRCmzE",
             "name": "Luis Cobos - Perpetum Polka-dzUD4zRCmzE.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/i3/videos/Luis Cobos - Perpetum Polka-dzUD4zRCmzE.mp4",
@@ -79,6 +86,20 @@
             "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Liszt - 'Ihr Glocken von Marling' S.328-lk068w-PlKo.mp4?raw=true"
         },
         {
+            "id": "fjxL1HXxZxg",
+            "name": "The Half of It Dearie, Blues-fjxL1HXxZxg.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/i3/videos/The Half of It Dearie, Blues-fjxL1HXxZxg.mp4",
+            "size": 4.145252,
+            "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/The Half of It Dearie, Blues-fjxL1HXxZxg.mp4?raw=true"
+        },
+        {
+            "id": "68d0dK918gE",
+            "name": "George Gershwin - Blue Monday (135th Street Blues) - Stereo-68d0dK918gE.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/i3/videos/George Gershwin - Blue Monday (135th Street Blues) - Stereo-68d0dK918gE.mp4",
+            "size": 31.980379,
+            "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/George Gershwin - Blue Monday (135th Street Blues) - Stereo-68d0dK918gE.mp4?raw=true"
+        },
+        {
             "id": "ea2XXiChIRg",
             "name": "Capriccio-valse for Violin and Piano in E Major, Op. 7-ea2XXiChIRg.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/i3/videos/Capriccio-valse for Violin and Piano in E Major, Op. 7-ea2XXiChIRg.mp4",
@@ -114,6 +135,13 @@
             "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/1929, Do What You Do, When a Woman Loves a Man, Why Was I Born, Through, Roger Wolfe Kahn Orch. HD-xCJGl4pRv8s.mp4?raw=true"
         },
         {
+            "id": "1an8mAmJnEM",
+            "name": "Offenbach - Le voyage dans la lune _ Ballet des Flocons de neige - Introduction-1an8mAmJnEM.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/i3/videos/Offenbach - Le voyage dans la lune _ Ballet des Flocons de neige - Introduction-1an8mAmJnEM.mp4",
+            "size": 0.251278,
+            "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Offenbach - Le voyage dans la lune _ Ballet des Flocons de neige - Introduction-1an8mAmJnEM.mp4?raw=true"
+        },
+        {
             "id": "bHGuq5kHxWs",
             "name": "Kreisler - Liebesfreud - Liebesfreud-bHGuq5kHxWs.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/i3/videos/Kreisler - Liebesfreud - Liebesfreud-bHGuq5kHxWs.mp4",
@@ -126,6 +154,13 @@
             "path": "/home/alanmatzumiya/Videos/containers/i3/videos/Clayton Stephenson \u2013 GERSHWIN Piano Concerto in F Major \u2013 2022 Cliburn Competition-dYrctWr9zv0.mp4",
             "size": 79.9517,
             "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Clayton Stephenson \u2013 GERSHWIN Piano Concerto in F Major \u2013 2022 Cliburn Competition-dYrctWr9zv0.mp4?raw=true"
+        },
+        {
+            "id": "iQB5ifzSA48",
+            "name": "MIKO MISSION - The World Is You (Vocal Version) _ The Vinyl Rendition-iQB5ifzSA48.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/i3/videos/MIKO MISSION - The World Is You (Vocal Version) _ The Vinyl Rendition-iQB5ifzSA48.mp4",
+            "size": 36.359439,
+            "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/MIKO MISSION - The World Is You (Vocal Version) _ The Vinyl Rendition-iQB5ifzSA48.mp4?raw=true"
         },
         {
             "id": "a89B8yi8iAA",
@@ -142,5 +177,5 @@
             "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Lsd-2F27X7yXeTY.mp4?raw=true"
         }
     ],
-    "total_size": 457.319007
+    "total_size": 531.773285
 }
