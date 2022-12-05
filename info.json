@@ -51,6 +51,13 @@
             "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Finale, Act I-8hhYoUYL3Ac.mp4?raw=true"
         },
         {
+            "id": "9j6kl7Ae43w",
+            "name": "Twelve Waltzes and Coda - No. 9-9j6kl7Ae43w.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/i3/videos/Twelve Waltzes and Coda - No. 9-9j6kl7Ae43w.mp4",
+            "size": 0.8694949999999999,
+            "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Twelve Waltzes and Coda - No. 9-9j6kl7Ae43w.mp4?raw=true"
+        },
+        {
             "id": "lk068w-PlKo",
             "name": "Liszt - 'Ihr Glocken von Marling' S.328-lk068w-PlKo.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/i3/videos/Liszt - 'Ihr Glocken von Marling' S.328-lk068w-PlKo.mp4",
@@ -63,6 +70,13 @@
             "path": "/home/alanmatzumiya/Videos/containers/i3/videos/Capriccio-valse for Violin and Piano in E Major, Op. 7-ea2XXiChIRg.mp4",
             "size": 4.441514,
             "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Capriccio-valse for Violin and Piano in E Major, Op. 7-ea2XXiChIRg.mp4?raw=true"
+        },
+        {
+            "id": "uLjHNa4cgv4",
+            "name": "Fast Dance-uLjHNa4cgv4.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/i3/videos/Fast Dance-uLjHNa4cgv4.mp4",
+            "size": 3.629749,
+            "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Fast Dance-uLjHNa4cgv4.mp4?raw=true"
         },
         {
             "id": "vHbxfhi0sOc",
@@ -86,6 +100,20 @@
             "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Kreisler - Liebesfreud - Liebesfreud-bHGuq5kHxWs.mp4?raw=true"
         },
         {
+            "id": "dYrctWr9zv0",
+            "name": "Clayton Stephenson \u2013 GERSHWIN Piano Concerto in F Major \u2013 2022 Cliburn Competition-dYrctWr9zv0.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/i3/videos/Clayton Stephenson \u2013 GERSHWIN Piano Concerto in F Major \u2013 2022 Cliburn Competition-dYrctWr9zv0.mp4",
+            "size": 79.9517,
+            "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Clayton Stephenson \u2013 GERSHWIN Piano Concerto in F Major \u2013 2022 Cliburn Competition-dYrctWr9zv0.mp4?raw=true"
+        },
+        {
+            "id": "a89B8yi8iAA",
+            "name": "(1986) Luis Cobos Dirige - The Royal Philharmonic Orchestra -\u00a0Sol Y Sombra [Cassette Rip]-a89B8yi8iAA.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/i3/videos/(1986) Luis Cobos Dirige - The Royal Philharmonic Orchestra -\u00a0Sol Y Sombra [Cassette Rip]-a89B8yi8iAA.mp4",
+            "size": 86.533328,
+            "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/(1986) Luis Cobos Dirige - The Royal Philharmonic Orchestra -\u00a0Sol Y Sombra [Cassette Rip]-a89B8yi8iAA.mp4?raw=true"
+        },
+        {
             "id": "2F27X7yXeTY",
             "name": "Lsd-2F27X7yXeTY.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/i3/videos/Lsd-2F27X7yXeTY.mp4",
@@ -93,5 +121,5 @@
             "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Lsd-2F27X7yXeTY.mp4?raw=true"
         }
     ],
-    "total_size": 108.64083900000001
+    "total_size": 279.625111
 }
