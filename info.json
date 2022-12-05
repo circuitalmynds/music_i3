@@ -1,5 +1,97 @@
 {
     "available_space": true,
-    "content": [],
-    "total_size": 0.0
+    "content": [
+        {
+            "id": "HSf2x1RQ3J0",
+            "name": "Fidgety Feet-HSf2x1RQ3J0.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/i3/videos/Fidgety Feet-HSf2x1RQ3J0.mp4",
+            "size": 3.885801,
+            "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Fidgety Feet-HSf2x1RQ3J0.mp4?raw=true"
+        },
+        {
+            "id": "Lt8_DpUyLmk",
+            "name": "Keyboard Sonata No. 7 in D Major, Hob. XVII, D 1 - I. Theme & Variations 1 - 3-Lt8_DpUyLmk.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/i3/videos/Keyboard Sonata No. 7 in D Major, Hob. XVII, D 1 - I. Theme & Variations 1 - 3-Lt8_DpUyLmk.mp4",
+            "size": 4.611276,
+            "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Keyboard Sonata No. 7 in D Major, Hob. XVII, D 1 - I. Theme & Variations 1 - 3-Lt8_DpUyLmk.mp4?raw=true"
+        },
+        {
+            "id": "dzUD4zRCmzE",
+            "name": "Luis Cobos - Perpetum Polka-dzUD4zRCmzE.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/i3/videos/Luis Cobos - Perpetum Polka-dzUD4zRCmzE.mp4",
+            "size": 8.762568,
+            "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Luis Cobos - Perpetum Polka-dzUD4zRCmzE.mp4?raw=true"
+        },
+        {
+            "id": "qdgNQN-PiRA",
+            "name": "Shostakovich - Piano Concerto No.2 in F major, Op.102-qdgNQN-PiRA.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/i3/videos/Shostakovich - Piano Concerto No.2 in F major, Op.102-qdgNQN-PiRA.mp4",
+            "size": 26.202531999999998,
+            "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Shostakovich - Piano Concerto No.2 in F major, Op.102-qdgNQN-PiRA.mp4?raw=true"
+        },
+        {
+            "id": "zoIgZjQLMMA",
+            "name": "Like Christ-zoIgZjQLMMA.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/i3/videos/Like Christ-zoIgZjQLMMA.mp4",
+            "size": 10.896478,
+            "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Like Christ-zoIgZjQLMMA.mp4?raw=true"
+        },
+        {
+            "id": "qmPrIW1lGLk",
+            "name": "Ingeborg Hallstein sings Fr\u00fchlingsstimmen Walzer (Voices of Spring Waltz) by Johann Strauss II-qmPrIW1lGLk.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/i3/videos/Ingeborg Hallstein sings Fr\u00fchlingsstimmen Walzer (Voices of Spring Waltz) by Johann Strauss II-qmPrIW1lGLk.mp4",
+            "size": 20.651104,
+            "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Ingeborg Hallstein sings Fr\u00fchlingsstimmen Walzer (Voices of Spring Waltz) by Johann Strauss II-qmPrIW1lGLk.mp4?raw=true"
+        },
+        {
+            "id": "8hhYoUYL3Ac",
+            "name": "Finale, Act I-8hhYoUYL3Ac.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/i3/videos/Finale, Act I-8hhYoUYL3Ac.mp4",
+            "size": 6.313929,
+            "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Finale, Act I-8hhYoUYL3Ac.mp4?raw=true"
+        },
+        {
+            "id": "lk068w-PlKo",
+            "name": "Liszt - 'Ihr Glocken von Marling' S.328-lk068w-PlKo.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/i3/videos/Liszt - 'Ihr Glocken von Marling' S.328-lk068w-PlKo.mp4",
+            "size": 2.204716,
+            "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Liszt - 'Ihr Glocken von Marling' S.328-lk068w-PlKo.mp4?raw=true"
+        },
+        {
+            "id": "ea2XXiChIRg",
+            "name": "Capriccio-valse for Violin and Piano in E Major, Op. 7-ea2XXiChIRg.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/i3/videos/Capriccio-valse for Violin and Piano in E Major, Op. 7-ea2XXiChIRg.mp4",
+            "size": 4.441514,
+            "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Capriccio-valse for Violin and Piano in E Major, Op. 7-ea2XXiChIRg.mp4?raw=true"
+        },
+        {
+            "id": "vHbxfhi0sOc",
+            "name": "Chop Chop Rock-vHbxfhi0sOc.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/i3/videos/Chop Chop Rock-vHbxfhi0sOc.mp4",
+            "size": 3.509956,
+            "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Chop Chop Rock-vHbxfhi0sOc.mp4?raw=true"
+        },
+        {
+            "id": "8vOkY94xjnY",
+            "name": "Samba Em Preludio-8vOkY94xjnY.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/i3/videos/Samba Em Preludio-8vOkY94xjnY.mp4",
+            "size": 3.296074,
+            "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Samba Em Preludio-8vOkY94xjnY.mp4?raw=true"
+        },
+        {
+            "id": "bHGuq5kHxWs",
+            "name": "Kreisler - Liebesfreud - Liebesfreud-bHGuq5kHxWs.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/i3/videos/Kreisler - Liebesfreud - Liebesfreud-bHGuq5kHxWs.mp4",
+            "size": 8.714138,
+            "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Kreisler - Liebesfreud - Liebesfreud-bHGuq5kHxWs.mp4?raw=true"
+        },
+        {
+            "id": "2F27X7yXeTY",
+            "name": "Lsd-2F27X7yXeTY.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/i3/videos/Lsd-2F27X7yXeTY.mp4",
+            "size": 5.150753,
+            "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Lsd-2F27X7yXeTY.mp4?raw=true"
+        }
+    ],
+    "total_size": 108.64083900000001
 }
