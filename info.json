@@ -2,11 +2,32 @@
     "available_space": true,
     "content": [
         {
+            "id": "9qdfJKt8I64",
+            "name": "License to Kill [9qdfJKt8I64].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i3/videos/License to Kill [9qdfJKt8I64].mp4",
+            "size": 16.903900999999998,
+            "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/License to Kill [9qdfJKt8I64].mp4?raw=true"
+        },
+        {
             "id": "a89B8yi8iAA",
             "name": "(1986) Luis Cobos Dirige - The Royal Philharmonic Orchestra - Sol Y Sombra [Cassette Rip]-a89B8yi8iAA.mp4",
             "path": "/home/alanmatzumiya/Videos/container/i3/videos/(1986) Luis Cobos Dirige - The Royal Philharmonic Orchestra - Sol Y Sombra [Cassette Rip]-a89B8yi8iAA.mp4",
             "size": 86.533328,
             "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/(1986) Luis Cobos Dirige - The Royal Philharmonic Orchestra - Sol Y Sombra [Cassette Rip]-a89B8yi8iAA.mp4?raw=true"
+        },
+        {
+            "id": "JXAVISpS4wM",
+            "name": "Chico Marx plays Beer Barrel Polka [JXAVISpS4wM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i3/videos/Chico Marx plays Beer Barrel Polka [JXAVISpS4wM].mp4",
+            "size": 3.7313639999999997,
+            "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Chico Marx plays Beer Barrel Polka [JXAVISpS4wM].mp4?raw=true"
+        },
+        {
+            "id": "t_TD0vp0Tss",
+            "name": "Top Hat (Overture) [t_TD0vp0Tss].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i3/videos/Top Hat (Overture) [t_TD0vp0Tss].mp4",
+            "size": 3.454173,
+            "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Top Hat (Overture) [t_TD0vp0Tss].mp4?raw=true"
         },
         {
             "id": "ItBv2pJpBNc",
@@ -16,11 +37,25 @@
             "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Keyboard Sonata No. 5 in G Major, Hob. XVI, 11 - I. Presto-ItBv2pJpBNc.mp4?raw=true"
         },
         {
+            "id": "M5r8u7h8y0E",
+            "name": "1930 Paul Whiteman - Happy Feet (Rhythm Boys, vocal) [M5r8u7h8y0E].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i3/videos/1930 Paul Whiteman - Happy Feet (Rhythm Boys, vocal) [M5r8u7h8y0E].mp4",
+            "size": 4.430101,
+            "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/1930 Paul Whiteman - Happy Feet (Rhythm Boys, vocal) [M5r8u7h8y0E].mp4?raw=true"
+        },
+        {
             "id": "8hhYoUYL3Ac",
             "name": "Finale, Act I-8hhYoUYL3Ac.mp4",
             "path": "/home/alanmatzumiya/Videos/container/i3/videos/Finale, Act I-8hhYoUYL3Ac.mp4",
             "size": 6.313929,
             "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Finale, Act I-8hhYoUYL3Ac.mp4?raw=true"
+        },
+        {
+            "id": "VAuTouBhN5k",
+            "name": "Rhapsody in Blue Debut ｜ Rhapsody In Blue ｜ Warner Archive [VAuTouBhN5k].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i3/videos/Rhapsody in Blue Debut ｜ Rhapsody In Blue ｜ Warner Archive [VAuTouBhN5k].mp4",
+            "size": 22.66472,
+            "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Rhapsody in Blue Debut ｜ Rhapsody In Blue ｜ Warner Archive [VAuTouBhN5k].mp4?raw=true"
         },
         {
             "id": "HSf2x1RQ3J0",
@@ -35,6 +70,20 @@
             "path": "/home/alanmatzumiya/Videos/container/i3/videos/Like Christ-zoIgZjQLMMA.mp4",
             "size": 10.896478,
             "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Like Christ-zoIgZjQLMMA.mp4?raw=true"
+        },
+        {
+            "id": "rnbZUFQqnEY",
+            "name": "REM Blues (Remastered) [rnbZUFQqnEY].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i3/videos/REM Blues (Remastered) [rnbZUFQqnEY].mp4",
+            "size": 11.485733999999999,
+            "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/REM Blues (Remastered) [rnbZUFQqnEY].mp4?raw=true"
+        },
+        {
+            "id": "A08by0YEpFs",
+            "name": "Piramo e Tisbe： Sinfonia [A08by0YEpFs].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i3/videos/Piramo e Tisbe： Sinfonia [A08by0YEpFs].mp4",
+            "size": 8.375199,
+            "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Piramo e Tisbe： Sinfonia [A08by0YEpFs].mp4?raw=true"
         },
         {
             "id": "RbQ9eH5RNGk",
@@ -58,6 +107,20 @@
             "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Shostakovich - Piano Concerto No.2 in F major, Op.102-qdgNQN-PiRA.mp4?raw=true"
         },
         {
+            "id": "I18Tgtngjyc",
+            "name": "Claude Debussy - Claro de Luna [de ＂Fantasía＂, 1940] [I18Tgtngjyc].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i3/videos/Claude Debussy - Claro de Luna [de ＂Fantasía＂, 1940] [I18Tgtngjyc].mp4",
+            "size": 14.841978,
+            "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Claude Debussy - Claro de Luna [de ＂Fantasía＂, 1940] [I18Tgtngjyc].mp4?raw=true"
+        },
+        {
+            "id": "ym07v2lPkzU",
+            "name": "Liszt： Aufenthalt, S.560 (after Schubert, D.957) [ym07v2lPkzU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i3/videos/Liszt： Aufenthalt, S.560 (after Schubert, D.957) [ym07v2lPkzU].mp4",
+            "size": 8.278226,
+            "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Liszt： Aufenthalt, S.560 (after Schubert, D.957) [ym07v2lPkzU].mp4?raw=true"
+        },
+        {
             "id": "uLjHNa4cgv4",
             "name": "Fast Dance-uLjHNa4cgv4.mp4",
             "path": "/home/alanmatzumiya/Videos/container/i3/videos/Fast Dance-uLjHNa4cgv4.mp4",
@@ -79,11 +142,32 @@
             "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Ingeborg Hallstein sings Frühlingsstimmen Walzer (Voices of Spring Waltz) by Johann Strauss II-qmPrIW1lGLk.mp4?raw=true"
         },
         {
+            "id": "eus6YtgudKk",
+            "name": "Liszt： Hohe Liebe (Uhland) [eus6YtgudKk].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i3/videos/Liszt： Hohe Liebe (Uhland) [eus6YtgudKk].mp4",
+            "size": 5.347922,
+            "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Liszt： Hohe Liebe (Uhland) [eus6YtgudKk].mp4?raw=true"
+        },
+        {
             "id": "vHbxfhi0sOc",
             "name": "Chop Chop Rock-vHbxfhi0sOc.mp4",
             "path": "/home/alanmatzumiya/Videos/container/i3/videos/Chop Chop Rock-vHbxfhi0sOc.mp4",
             "size": 3.509956,
             "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Chop Chop Rock-vHbxfhi0sOc.mp4?raw=true"
+        },
+        {
+            "id": "5i5yz8lXHWg",
+            "name": "Liszt - Rákóczy March - Willi Boskovsky - 1976 [5i5yz8lXHWg].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i3/videos/Liszt - Rákóczy March - Willi Boskovsky - 1976 [5i5yz8lXHWg].mp4",
+            "size": 71.271158,
+            "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Liszt - Rákóczy March - Willi Boskovsky - 1976 [5i5yz8lXHWg].mp4?raw=true"
+        },
+        {
+            "id": "hnToDKeYpGc",
+            "name": "Oscar Aleman - Susurrando [hnToDKeYpGc].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i3/videos/Oscar Aleman - Susurrando [hnToDKeYpGc].mp4",
+            "size": 2.941715,
+            "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Oscar Aleman - Susurrando [hnToDKeYpGc].mp4?raw=true"
         },
         {
             "id": "Lt8_DpUyLmk",
@@ -107,6 +191,13 @@
             "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/1929, Do What You Do, When a Woman Loves a Man, Why Was I Born, Through, Roger Wolfe Kahn Orch. HD-xCJGl4pRv8s.mp4?raw=true"
         },
         {
+            "id": "LDNBKff6g_E",
+            "name": "NEW WAVE ALTERNAT!VE.. MIX VOL 24 [LDNBKff6g_E].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i3/videos/NEW WAVE ALTERNAT!VE.. MIX VOL 24 [LDNBKff6g_E].mp4",
+            "size": 34.79222,
+            "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/NEW WAVE ALTERNAT!VE.. MIX VOL 24 [LDNBKff6g_E].mp4?raw=true"
+        },
+        {
             "id": "9j6kl7Ae43w",
             "name": "Twelve Waltzes and Coda - No. 9-9j6kl7Ae43w.mp4",
             "path": "/home/alanmatzumiya/Videos/container/i3/videos/Twelve Waltzes and Coda - No. 9-9j6kl7Ae43w.mp4",
@@ -128,11 +219,32 @@
             "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Capriccio-valse for Violin and Piano in E Major, Op. 7-ea2XXiChIRg.mp4?raw=true"
         },
         {
+            "id": "60PGG1Miwr4",
+            "name": "Patrick Cowley Somebody to love tonight ( MUSCLE UP ) [60PGG1Miwr4].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i3/videos/Patrick Cowley Somebody to love tonight ( MUSCLE UP ) [60PGG1Miwr4].mp4",
+            "size": 19.560126,
+            "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Patrick Cowley Somebody to love tonight ( MUSCLE UP ) [60PGG1Miwr4].mp4?raw=true"
+        },
+        {
+            "id": "ya0ICamwuZI",
+            "name": "Kraftwerk - Tour De France (1983) [ya0ICamwuZI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i3/videos/Kraftwerk - Tour De France (1983) [ya0ICamwuZI].mp4",
+            "size": 58.460691,
+            "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Kraftwerk - Tour De France (1983) [ya0ICamwuZI].mp4?raw=true"
+        },
+        {
             "id": "iQB5ifzSA48",
             "name": "MIKO MISSION - The World Is You (Vocal Version) _ The Vinyl Rendition-iQB5ifzSA48.mp4",
             "path": "/home/alanmatzumiya/Videos/container/i3/videos/MIKO MISSION - The World Is You (Vocal Version) _ The Vinyl Rendition-iQB5ifzSA48.mp4",
             "size": 36.359439,
             "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/MIKO MISSION - The World Is You (Vocal Version) _ The Vinyl Rendition-iQB5ifzSA48.mp4?raw=true"
+        },
+        {
+            "id": "GJZnSIcffOI",
+            "name": "En blanc et noir, pour piano à quatre mains, CD 142, L. 134： II. Lent, sombre (Live) [GJZnSIcffOI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i3/videos/En blanc et noir, pour piano à quatre mains, CD 142, L. 134： II. Lent, sombre (Live) [GJZnSIcffOI].mp4",
+            "size": 14.802532999999999,
+            "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/En blanc et noir, pour piano à quatre mains, CD 142, L. 134： II. Lent, sombre (Live) [GJZnSIcffOI].mp4?raw=true"
         },
         {
             "id": "PWMckKB40aI",
@@ -147,6 +259,20 @@
             "path": "/home/alanmatzumiya/Videos/container/i3/videos/Lsd-2F27X7yXeTY.mp4",
             "size": 5.150753,
             "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Lsd-2F27X7yXeTY.mp4?raw=true"
+        },
+        {
+            "id": "RE1-JVN4L9E",
+            "name": "Gino Soccio - It's Alright [RE1-JVN4L9E].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i3/videos/Gino Soccio - It's Alright [RE1-JVN4L9E].mp4",
+            "size": 12.004311,
+            "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Gino Soccio - It's Alright [RE1-JVN4L9E].mp4?raw=true"
+        },
+        {
+            "id": "MK798RQKyCo",
+            "name": "Wingy Manone - Tar Paper Stomp (In the Mood Origins) [MK798RQKyCo].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i3/videos/Wingy Manone - Tar Paper Stomp (In the Mood Origins) [MK798RQKyCo].mp4",
+            "size": 4.014799,
+            "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Wingy Manone - Tar Paper Stomp (In the Mood Origins) [MK798RQKyCo].mp4?raw=true"
         },
         {
             "id": "lk068w-PlKo",
@@ -170,12 +296,33 @@
             "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/George Gershwin - Blue Monday (135th Street Blues) - Stereo-68d0dK918gE.mp4?raw=true"
         },
         {
+            "id": "m4-I1w4_GB8",
+            "name": "Hugh Mundell Blessing Of Fari (with Lyrics) [Remastered] [m4-I1w4_GB8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i3/videos/Hugh Mundell Blessing Of Fari (with Lyrics) [Remastered] [m4-I1w4_GB8].mp4",
+            "size": 14.215586,
+            "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Hugh Mundell Blessing Of Fari (with Lyrics) [Remastered] [m4-I1w4_GB8].mp4?raw=true"
+        },
+        {
+            "id": "CzTDK1elsmQ",
+            "name": "Soda Stereo - Estoy azulado [CzTDK1elsmQ].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i3/videos/Soda Stereo - Estoy azulado [CzTDK1elsmQ].mp4",
+            "size": 5.9274819999999995,
+            "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Soda Stereo - Estoy azulado [CzTDK1elsmQ].mp4?raw=true"
+        },
+        {
             "id": "1an8mAmJnEM",
             "name": "Offenbach - Le voyage dans la lune _ Ballet des Flocons de neige - Introduction-1an8mAmJnEM.mp4",
             "path": "/home/alanmatzumiya/Videos/container/i3/videos/Offenbach - Le voyage dans la lune _ Ballet des Flocons de neige - Introduction-1an8mAmJnEM.mp4",
             "size": 0.251278,
             "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Offenbach - Le voyage dans la lune _ Ballet des Flocons de neige - Introduction-1an8mAmJnEM.mp4?raw=true"
+        },
+        {
+            "id": "6tbEYbcpFAU",
+            "name": "Carlo Giuseppe Töschi - Sinfonia in D major (c. 1780s？) [6tbEYbcpFAU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i3/videos/Carlo Giuseppe Töschi - Sinfonia in D major (c. 1780s？) [6tbEYbcpFAU].mp4",
+            "size": 50.507619999999996,
+            "url": "https://github.com/circuitalmynds/music_i3/blob/main/videos/Carlo Giuseppe Töschi - Sinfonia in D major (c. 1780s？) [6tbEYbcpFAU].mp4?raw=true"
         }
     ],
-    "total_size": 531.7732849999999
+    "total_size": 919.7848439999999
 }
